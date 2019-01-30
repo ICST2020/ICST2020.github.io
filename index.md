@@ -1,12 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
+title: 13th IEEE Conference on Software Testing, Validation and Verification
 sidebar: toc
 ---
-
-# 13th IEEE Conference on Software Testing, Validation and Verification
 
 ICST 2018 is intended to provide a common forum for researchers, scientists,
 engineers and practitioners throughout the world to present their latest
