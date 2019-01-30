@@ -56,7 +56,7 @@ header_pages:
   - calls.md
   - organization.md
   - venue.md
-  - sponsors.md
+  - sponsors.html
 
 
 collections:
