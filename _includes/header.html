@@ -33,4 +33,15 @@
       </nav>
     {%- endif -%}
   </div>
+
+{% if page.jumbotron %}
+  <div class="jumbotron">
+    <div class="wrapper">
+      <h1>{{page.jumbotron.title}}</h1>
+      <h2>{{page.jumbotron.subtitle}}</h2>
+      <h2>{{page.jumbotron.subsubtitle}}</h2>
+      <p>{{page.jumbotron.content}}</p>
+    </div>
+  </div>
+{% endif %}
 </header>

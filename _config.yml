@@ -49,6 +49,8 @@ defaults:
       path: "assets/people"
     values:
       image: true
+sass:
+    sass_dir: _sass
 
 header_pages:
   - calls.md
