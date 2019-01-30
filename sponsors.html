@@ -1,0 +1,15 @@
+---
+layout: page
+title: Sponsors
+permalink: /sponsors/
+---
+
+<p>We are extremely grateful to our sponsors:</p>
+
+<div class="center">
+{% for sponsor in site.data.sponsors %}
+<a href="{{sponsor.url}}" target="_blank">
+  <img class="sponsor" src="/assets/img/{{sponsor.logo}}"/>
+</a>
+{% endfor %}
+</div>
