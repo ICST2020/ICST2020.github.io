@@ -1,0 +1,12 @@
+- name: IEEE Computer Society
+  logo: ieee.jpg
+  url:  https://www.computer.org
+- name: FEUP
+  logo: feup.png
+  url:  https://www.fe.up.pt
+- name: IST
+  logo: ist.jpg
+  url:  https://tecnico.ulisboa.pt
+- name: INESC-ID
+  logo: inescid.png
+  url:  https://www.inesc-id.pt
