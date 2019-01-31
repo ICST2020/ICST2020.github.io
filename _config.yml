@@ -49,6 +49,10 @@ defaults:
       path: "assets/people"
     values:
       image: true
+  - scope:
+      path: "assets/porto"
+    values:
+      image: true
 sass:
     sass_dir: _sass
 
