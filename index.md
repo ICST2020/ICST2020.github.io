@@ -18,4 +18,4 @@ research papers will be published in the conference proceedings with an IEEE
 catalog number and ISBN number. The proceedings will be submitted for
 publication in IEEE Xplore.
 
-ICST 2020 will feature a [double-blind review process](double_blind).
+<!-- ICST 2020 will feature a [double-blind review process](double_blind). -->
