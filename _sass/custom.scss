@@ -6,9 +6,8 @@
 .jumbotron2 { 
   padding: 50px 0px; /* adds some padding to the left and right*/
   max-width: 100%; /* allows the jumbotron2 to adjust on smaller widths */
-  background-image: url("/assets/img/porto.jpg");
+  background-position: center;
   background-size: cover;
-  color: white;
 }
 
 .jumbotron2 h1{
@@ -38,6 +37,11 @@ nav a {
 }
 nav li.active a {
     color: #ffffff;
+}
+
+.navbar{
+  padding-bottom: 0;
+  padding-top: 0;
 }
 
 .page-content{
