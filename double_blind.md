@@ -20,7 +20,7 @@ Robert Feldt. And [a more formal study of the
 subject](https://peerj.com/preprints/1757/) by Moritz Beller​​ and Alberto
 Bacchelli​​.
 
-# Q: How to prepare your ICST2018 submission for double-­blind reviewing?
+# Q: How to prepare your ICST2020 submission for double-­blind reviewing?
 
 In order to comply, you do not have to make your identity undiscoverable; the
 double­-blind aspect of the review process is not an adversarial identity
