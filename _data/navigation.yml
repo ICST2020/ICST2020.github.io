@@ -1,0 +1,16 @@
+- title: Calls
+  url: /calls
+- title: Organization
+  sublinks:
+    - title: Organizing Committee
+      url: /organization/organizing_committee
+    - title: Program Committee
+      url: /organization/program_committee
+    - title: Industry Committee
+      url: /organization/industry_committee
+    - title: Steering Committee
+      url: /organization/steering_committee
+- title: Venue
+  url: /venue
+- title: Sponsors
+  url: /sponsors
