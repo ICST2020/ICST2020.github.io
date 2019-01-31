@@ -6,6 +6,11 @@ permalink: /venue/
 
 ## Alfândega Porto Congress Centre
 
+<img src="/assets/img/alfandega.jpg"
+     class="rounded float-right img-fluid"
+     alt="Alfândega Porto Congress Centre"
+     width="300px"/>
+
 **ICST2020** will take place at the [Alfândega Porto Congress Centre
 (APCC)](https://www.ccalfandegaporto.com/en/) (Google Maps: 41.143928,
 -8.621688) in Porto, by the river Douro. This is the old building of the
@@ -18,9 +23,9 @@ architect [Souto Moura](https://en.wikipedia.org/wiki/Eduardo_Souto_de_Moura)
 to become a modern 36000 m2 conference center with 22 multifunctional spaces
 and a 400 parking space.
 
-![alfandega](/assets/img/alfandega.jpg)
 
-<div class="embed-responsive">
+
+<div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.6100051657786!2d-8.623903449218197!3d41.14303887918557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24651e5418666b%3A0x586d876c499097be!2sPorto+Customs!5e0!3m2!1sen!2spt!4v1548788697795" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
@@ -40,9 +45,14 @@ recognition for being *“an outstanding urban landscape with a 2,000- year
 history (…) linked to the sea (the Romans gave it the name Portus, or port)”*
 in Europe.
 
-<div class="embed-responsive">
+<div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://player.vimeo.com/video/203346600" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 </div>
+
+<p></p>
+
+
+---
 
 ## Getting to Porto
 
