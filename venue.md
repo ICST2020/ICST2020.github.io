@@ -6,16 +6,20 @@ permalink: /venue/
 
 ## Alfândega Porto Congress Centre
 
+<div class="mx-auto d-block float-sm-right px-2">
 <img src="/assets/img/alfandega.jpg"
-     class="rounded float-right img-fluid"
+     class="img-fluid mx-auto d-block"
      alt="Alfândega Porto Congress Centre"
-     width="300px"/>
+     width="300px"
+     
+     />
+</div>
 
 **ICST2020** will take place at the [Alfândega Porto Congress Centre
-(APCC)](https://www.ccalfandegaporto.com/en/) (Google Maps: 41.143928,
--8.621688) in Porto, by the river Douro. This is the old building of the
-warehouse and customs house of Porto which has been since subject to many
-amplification and reconstruction projects.
+(APCC)](https://www.ccalfandegaporto.com/en/) ([Google Maps: 41.143928,
+-8.621688](https://goo.gl/maps/Ujjdd4aj5W92)) in Porto, by the river Douro.
+This is the old building of the warehouse and customs house of Porto which has
+been since subject to many amplification and reconstruction projects.
 
 The current building was finished in 1869 and was operational until 1987. Later
 converted into a Museum of Transportation, in 1992 it was renovated by the
@@ -28,6 +32,10 @@ and a 400 parking space.
 <div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3004.6100051657786!2d-8.623903449218197!3d41.14303887918557!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd24651e5418666b%3A0x586d876c499097be!2sPorto+Customs!5e0!3m2!1sen!2spt!4v1548788697795" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
+
+
+<p> </p>
+
 
 ---
 
