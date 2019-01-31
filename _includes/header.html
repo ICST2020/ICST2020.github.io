@@ -51,6 +51,7 @@
 {% if page.jumbotron %}
   {% assign randomNumber = "now" | date: "%s%N" | modulo: site.data.bg_images.size %}
   {% assign bg_image = site.data.bg_images[randomNumber] %}
+
   <div class="jumbotron2"
        style='background-image: url("/assets/{{bg_image.url}}"); color: {{bg_image.font-color}}'>
     <div class="wrapper">
@@ -60,5 +61,8 @@
       <p>{{page.jumbotron.content}}</p>
     </div>
   </div>
+  
+
+
 {% endif %}
 </header>
