@@ -1,3 +1,9 @@
+$green-color: #5DE171;
+$blue-color: #3631F4;
+
+body{
+font-family: 'Cousine', monospace;
+}
 .current {
   color: green;
 }
@@ -36,7 +42,7 @@ nav a {
     text-decoration: none;
 }
 nav li.active a {
-    color: #ffffff;
+    color: $green-color;
 }
 
 .navbar{
