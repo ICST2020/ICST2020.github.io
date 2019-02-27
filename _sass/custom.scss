@@ -1,6 +1,6 @@
 $green-color: #5DE171;
 $blue-color: #3631F4;
-
+$twitter-color: #007bff;
 body{
 font-family: 'Cousine', monospace;
 }
@@ -71,4 +71,8 @@ nav a {
 
 a, a:visited{
   color: $blue-color;
+}
+
+.svg-twitter{
+  fill: $twitter-color;
 }
