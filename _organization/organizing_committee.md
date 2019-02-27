@@ -9,6 +9,6 @@ title: Organizing Committee
 ## {{organizer.Role}}
 {% elsif organizer.Confirmed == "TRUE"%}
 ![{{organizer.Name}}](/assets/people/{{ organizer.Name | replace: " ", "_" | downcase }}.jpg){: width="64px" }
-  [{{ organizer.Name }}](mailto:{{organizer.Email}}), {{ organizer.Institution }}, {{ organizer.Country }}
+  [{{ organizer.Name }}](mailto:{{organizer.Email}}), {{ organizer.Institution }} {{ organizer.Country_Flag }}
 {% endif %}
 {% endfor %}
