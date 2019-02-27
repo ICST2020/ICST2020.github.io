@@ -4,8 +4,8 @@
   font-color: white
 - url: porto/porto-3.jpg
   font-color: white
-- url: porto/porto-4.jpg
-  font-color: black
+# - url: porto/porto-4.jpg
+#   font-color: black
 - url: porto/porto-6.jpg
   font-color: white
 - url: porto/porto-7.jpg
