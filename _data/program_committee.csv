@@ -1,0 +1,65 @@
+first_name,last_name,email,organization,Role,Last access
+Rui,Abreu,rui@computer.org,"IST, University of Lisbon and INESC-ID",chair,"May 16, 12:49"
+Mike,Papadakis,mike.papadakis@gmail.com,University of Luxembourg,ordinary PC member,"May 10, 17:59"
+Thomas,Durieux,thomas@durieux.me,"INESC-ID and IST, University of Lisbon",ordinary PC member,"May 01, 10:38"
+Rahul,Gopinath,rahul@gopinath.org,"CISPA, Saarland University",ordinary PC member,"Apr 29, 11:56"
+Zhenyu,Chen,zychen@nju.edu.cn,Nanjing University,ordinary PC member,"Apr 26, 05:21"
+Andrea,Stocco,astocco@ece.ubc.ca,Università della Svizzera Italiana,ordinary PC member,"Apr 24, 22:55"
+Phil,McMinn,p.mcminn@sheffield.ac.uk,The University of Sheffield,ordinary PC member,"Apr 17, 09:36"
+Corina,Pasareanu,corina.pasareanu@west.cmu.edu,CMU/NASA Ames Research Center,chair,"Apr 01, 06:07"
+T.Y.,Chen,tychen@swin.edu.au,Swinburne University of Technology,ordinary PC member,"Mar 29, 11:42"
+Ina,Schieferdecker,ina.schieferdecker@fokus.fraunhofer.de,Fraunhofer FOKUS/TU Berlin,ordinary PC member,"Mar 25, 20:18"
+Robert,Feldt,robert.feldt@chalmers.se,Blekinge Institute of Technology,ordinary PC member,"Mar 08, 09:29"
+Sara,Sprenkle,sprenkles@wlu.edu,Washington and Lee University,ordinary PC member,"Mar 08, 01:02"
+Arnaud,Gotlieb,arnaud@simula.no,SIMULA Research Laboratory,ordinary PC member,"Feb 17, 05:25"
+Emil,Alégroth,emil.alegroth@bth.se,Blekinge Institute of Technology,ordinary PC member,"Feb 11, 22:10"
+Andreas,Zeller,zeller@cispa.saarland,CISPA,chair,"Feb 07, 17:10"
+Juan Pablo,Galeotti,jgaleotti@dc.uba.ar,University of Buenos Aires,ordinary PC member,"Feb 07, 12:41"
+Guowei,Yang,gyang@txstate.edu,Texas State University,ordinary PC member,"Feb 07, 04:47"
+Bruno,Legeard,bruno.legeard@femto-st.fr,Smartesting,ordinary PC member,"Feb 06, 19:38"
+Paolo,Tonella,paolo.tonella@usi.ch,Università della Svizzera Italiana (USI),ordinary PC member,"Feb 06, 18:10"
+Joao,Pascoal Faria,jpf@fe.up.pt,,chair,never
+Anneliese,Andrews,andrews@cs.du.edu,University of denver,ordinary PC member,never
+Baishakhi,Ray,rayb@cs.columbia.edu,Columbia University,ordinary PC member,never
+René,Just,rjust@cs.washington.edu,University of Washington,ordinary PC member,never
+Gordon,Fraser,Gordon.Fraser@uni-passau.de,University of Passau,ordinary PC member,never
+Elvira,Albert,elvira@sip.ucm.es,Universidad Complutense de Madrid,ordinary PC member,never
+Alex,Groce,agroce@gmail.com,Northern Arizona Univeristy,ordinary PC member,never
+Franz,Wotawa,wotawa@ist.tugraz.at,Technische Universitaet Graz,ordinary PC member,never
+Tao,Yue,tao@simula.no,Simula Research Laboratory and Nanjing University of Aeronautics and Astronautics,ordinary PC member,never
+Ana,Paiva,apaiva@fe.up.pt,University of Porto,ordinary PC member,never
+Sarfraz,Khurshid,khurshid@ece.utexas.edu,The University of Texas at Austin,ordinary PC member,never
+Alin,Stefanescu,alin@stefanescu.eu,University of Bucharest,ordinary PC member,never
+Tanja E. J.,Vos,tvos@dsic.upv.es,Open Universiteit and Universitat Politecnica de Valencia,ordinary PC member,never
+Tao,Xie,taoxie@gmail.com,University of Illinois at Urbana-Champaign,ordinary PC member,never
+Neil,Walkinshaw,ndwalkinshaw@gmail.com,The University of Sheffield,ordinary PC member,never
+Andy,Podgurski,podgurski@case.edu,Case Western Reserve Unversity,ordinary PC member,never
+Shaukat,Ali,shaukat@simula.no,Simula Research Laboratory,ordinary PC member,never
+Marcelo,d'Amorim,damorim@cin.ufpe.br,Federal University of Pernambuco,ordinary PC member,never
+Andy,Zaidman,a.e.zaidman@tudelft.nl,Delft University of Technology,ordinary PC member,never
+Mark,Utting,bm.utting@gmail.com,University of the Sunshine Coast,ordinary PC member,never
+Sebastiano,Panichella,sebastiano.panichella@zhaw.ch,,ordinary PC member,NEVER
+Leonardo,Mariani,leonardo.mariani@unimib.it,University of Milano Bicocca,ordinary PC member,never
+Paul,Strooper,pstroop@itee.uq.edu.au,The University of Queensland,ordinary PC member,never
+Marcel,Böhme,boehme.marcel+conference@gmail.com,Monash University,ordinary PC member,never
+José Miguel,Rojas,j.rojas@leicester.ac.uk,University of Leicester,ordinary PC member,never
+Dan,Hao,haodan@pku.edu.cn,Peking University,ordinary PC member,never
+Adam,Porter,aporter@cs.umd.edu,University of Maryland,ordinary PC member,never
+David,Lo,davidlo@smu.edu.sg,Singapore Management University,ordinary PC member,never
+Abhik,Roychoudhury,abhik@comp.nus.edu.sg,National University of Singapore,ordinary PC member,never
+Massimiliano,Di Penta,dipenta@unisannio.it,University of Sannio,ordinary PC member,never
+Andrea,Arcuri,arcuri82@gmail.com,"Kristiania, Norway, and University of Luxembourg",ordinary PC member,never
+David,Shepherd,davidshepherd@gmail.com,"ABB, Inc",ordinary PC member,never
+Willem,Visser,willem@gmail.com,Stellenbosch University,ordinary PC member,never
+Antonio,Filieri,a.filieri@imperial.ac.uk,Imperial College London,ordinary PC member,never
+Annibale,Panichella,a.panichella@tudelft.nl,University of Luxembourg,ordinary PC member,never
+Alessandra,Gorla,alessandra.gorla@imdea.org,IMDEA Software Institute,ordinary PC member,never
+Lars,Grunske,lars.grunske@gmail.com,Humboldt University Berlin,ordinary PC member,never
+Yves,Le Traon,yves.letraon@uni.lu,University of Luxembourg,ordinary PC member,never
+Koushik,Sen,ksen@cs.berkeley.edu,"University of California, Berkeley",ordinary PC member,never
+Milos,Gligoric,gligoric@utexas.edu,The University of Texas at Austin,ordinary PC member,never
+Robert,M. Hierons,Rob.Hierons@brunel.ac.uk,Brunel University,ordinary PC member,NEVER
+Shiva,Nejati,nejati@svv.lu,"SnT Centre, University of Luxembourg",ordinary PC member,never
+Eric,Bodden,eric.bodden@uni-paderborn.de,Paderborn University and Fraunhofer IEM,ordinary PC member,never
+Lionel,Briand,lionel.briand@uni.lu,University of Luxembourg,ordinary PC member,never
+Cristian,Cadar,c.cadar@imperial.ac.uk,Imperial College London,,
