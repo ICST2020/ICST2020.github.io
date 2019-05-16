@@ -1,4 +1,4 @@
-first_name,last_name,email,organization,Role,Last access
+first_name,last_name,email,organization,role,Last access
 Rui,Abreu,rui@computer.org,"IST, University of Lisbon and INESC-ID",chair,"May 16, 12:49"
 Mike,Papadakis,mike.papadakis@gmail.com,University of Luxembourg,ordinary PC member,"May 10, 17:59"
 Thomas,Durieux,thomas@durieux.me,"INESC-ID and IST, University of Lisbon",ordinary PC member,"May 01, 10:38"
