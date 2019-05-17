@@ -13,11 +13,11 @@ universities, etc. and the “costs” for its implementation are relatively low
 For those who are interested in further motivations for double blind reviewing,
 a very well­ argued, referenced and evidenced article in favour of double blind
 review processes for Software Engineering conferences can be found in [the blog
-post by Claire Le Goues](https://www.cs.cmu.edu/~clegoues/double-blind.html).
+post by Claire Le Goues](https://www.cs.cmu.edu/~clegoues/double-blind.html){:target="_blank"}.
 And here is [a list of double-blind
-resources](http://www.robertfeldt.net/advice/double_blind_reviewing/) from
+resources](http://www.robertfeldt.net/advice/double_blind_reviewing/){:target="_blank"} from
 Robert Feldt. And [a more formal study of the
-subject](https://peerj.com/preprints/1757/) by Moritz Beller​​ and Alberto
+subject](https://peerj.com/preprints/1757/){:target="_blank"} by Moritz Beller​​ and Alberto
 Bacchelli​​.
 
 # Q: How to prepare your ICST2020 submission for double-­blind reviewing?
@@ -101,14 +101,14 @@ much to ask to require this context to be anonymized.
 
 Ideally the information in the appendix should be anonymous and it should be
 uploaded to an anonymous service such as for example
-[figshare](https://figshare.com). These sites will give you a link that is
+[figshare](https://figshare.com){:target="_blank"}. These sites will give you a link that is
 anonymous. Later, if the paper is accepted you can turn that link into a
 non-anonymized link or just put the appendix on your own site and change the
 link in the camera ready version of the paper. An alternative solution is to
 not include the link in the submission; normally papers should be possible to
 review based on only the material of the paper itself.
 
-To upload material on [figshare](https://figshare.com) please create an account
+To upload material on [figshare](https://figshare.com){:target="_blank"} please create an account
 there, then add a new item, use the keywords “Supplemental Materials” and add
 the other item-specific data and then select “Make file(s) confidential” and
 select “Generate private link”. Copy the url generated there and then “Save
