@@ -30,14 +30,14 @@ tutorials, or for ensuring live video coverage of the conference.
 
 ### General Chairs:
 
-Rui Abreu (rui.maranhao@tecnico.ulisboa.pt) 
+Rui Abreu ([rui.maranhao@tecnico.ulisboa.pt](mailto:rui.maranhao@tecnico.ulisboa.pt)) 
 
-João Pascoal Faria  (jpf@fe.up.pt)
+João Pascoal Faria  ([jpf@fe.up.pt](mailto:jpf@fe.up.pt))
 
 ### Local Organization Chair:
 
-Bruno Lima (bruno.lima@fe.up.pt)
+Bruno Lima ([bruno.lima@fe.up.pt](mailto:bruno.lima@fe.up.pt))
 
 ### Sponsor Chair:
 
-Raul Vidal (rmvidal@fe.up.pt)
+Raul Vidal ([rmvidal@fe.up.pt](mailto:rmvidal@fe.up.pt))
