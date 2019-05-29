@@ -48,8 +48,13 @@ Submission Site: [https://easychair.org/conferences/?conf=icst20](https://easych
 
 ## Important Dates (all dates are [AoE](https://time.is/Anywhere_on_Earth))
 
-- October ??, 2019: Submission of Abstract
-- October 14, 2019: Submission of Full Research Papers
-- December 10, 2019: Author Notification
-- Main Conference: March 24-26, 2020 (workshops and other events occur before/after these dates)
+|  | Submission | Notification |
+|-------|--------|---------|
+| Workshop Proposals | September 13 | September 27 |
+| Industry Track Papers | October 14 | December 10 |
+| Research Track Papers | October 14 | December 10 |
+| Testing Tool Paper Track | December 9 | January 10 |
+| Posters | December 12 | January 10 |
+| Doctoral Symposium | January 13 | January 21 |
+| Tools Demonstrations | January 13 | January 27 |
 
