@@ -24,7 +24,13 @@
       </div>
 
       <div class="footer-col col-sm-8">
-        <p>{{- site.description | escape -}}</p>
+        <!-- <p>{{- site.description | escape -}}</p> -->
+          <div>Sponsors:</div>
+        <div>
+        {% for sponsor in site.data.sponsors %}
+        <a href="{{sponsor.url}}" target="_blank"><img class="sponsor col-sm-4" src="/assets/img/{{sponsor.logo}}"/></a>
+        {% endfor %}  
+      </div>
         <!-- <p><a href="/sponsorship_opportunities/">Corporate Sponsorship Opportunities</a></p> -->
       </div>
     </div>
