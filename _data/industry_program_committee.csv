@@ -1,6 +1,21 @@
-first_name,last_name,email,organization,role
-John,Micco,john.micco@gmail.com,Netflix,chair
-Marco,Pistoia,pistoia@us.ibm.com,IBM Watson,chair
-Keqin,Li,keqin.li@aiit.org.cn,"State University of New York",
-Ting,Su,krave_su@163.com,"Nanyang Technological University",
-Yu,Jiang,jy1989@mail.tsinghua.edu.cn,Tsinghua University,
+separator,first_name,last_name,email,organization,role
+Organizing Committee,,,,,
+,John,Micco,john.micco@gmail.com,Netflix,chair
+,Marco,Pistoia,pistoia@us.ibm.com,IBM Watson,chair
+Program Committee,,,,,
+,Keqin,Li,keqin.li@aiit.org.cn,"State University of New York",
+,Ting,Su,krave_su@163.com,"Nanyang Technological University",
+,Yu,Jiang,jy1989@mail.tsinghua.edu.cn,Tsinghua University,
+,Keqin,Li,keqin.li@aiit.org.cn,Peking University,
+,Ting,Su,krave_su@163.com,ETH Zurich
+,Yu,Jiang,jy1989@mail.tsinghua.edu.cn,Tsinghua University,
+,Jose Miguel,Rojas, j.rojas@leicester.ac.uk,University of Leicester,
+,John,Penix,jpenix@google.com,Google,
+,Matt,Staats,staatsm@gmail.com,Google,
+,Chunhui,Wang,wang@svv.lu,University of Luxembourg,
+,Sina,Shamshiri,sina@spotqa.com,University of Sheffield,
+,Carmine,Vassallo,vassallo@ifi.uzh.ch,University of Zurich,
+,Christian,King,king@fzi.de,FZI,
+,Milos,Gligoric,gligoric@utexas.edu,University of Texas at Austin,
+,Sebastian,Proksch,proksch@ifi.uzh.ch,University of Zurich,
+,Robert,Feldt,robert.feldt@gmail.com,Chalmers University of Technology,
